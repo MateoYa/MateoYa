@@ -16,7 +16,7 @@ I'm a computer engineering student at the University of Waterloo, passionate abo
 
 - [LinkedIn](https://www.linkedin.com/in/MateoYa/)
 - [Email](mailto:mateo.e.yajure@gmail.com)
-- [Website](https://www.mateo.yajure.com/)
+[comment]: - [Website](https://www.mateo.yajure.com/)
 
 ---
 
